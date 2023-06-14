@@ -1,0 +1,46 @@
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\mysql.data.dll
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\enunciado3.csproj.GenerateResource.Cache
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\enunciado3.csprojResolveAssemblyReference.cache
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csprojResolveAssemblyReference.cache
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csproj.GenerateResource.Cache
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\bin\Debug\mysql.data.dll
+G:\UMSA\INF-324\2do parcial INF 324\enunciado 3\conexion\conexion\bin\Debug\conexion.exe.config
+G:\UMSA\INF-324\2do parcial INF 324\enunciado 3\conexion\conexion\obj\Debug\conexion.exe
+G:\UMSA\INF-324\2do parcial INF 324\enunciado 3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csprojResolveAssemblyReference.cache
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csproj.GenerateResource.Cache
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\enunciado 3\conexion\conexion\bin\Debug\mysql.data.dll
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\bin\Debug\mysql.data.dll
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\USUARIO\Documents\INF-324\EXAMEN3\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csproj.GenerateResource.Cache
+C:\Users\yessid\Downloads\proyecto Final INF-324\enunciado 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\yessid\Downloads\proyecto Final INF-324\enunciado 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\yessid\Downloads\proyecto Final INF-324\enunciado 3\conexion\conexion\obj\Debug\conexion.pdb
